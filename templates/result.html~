@@ -1,0 +1,21 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="webpage descript here">
+  <meta name="author" content="Justin Phillips">
+
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+</head>
+
+<body>
+    HELLO FROM RESUTLS
+
+  <script src="js/scripts.js"></script>
+</body>
+</html>
+
